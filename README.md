@@ -1,3 +1,8 @@
+仅尝试对原汉化版的中用于解析地震位置geojson文件和城市列表重新翻译汉化。未修改其他文件。
+
+原汉化版地址：https://github.com/muwenyan521/GlobalQuake-Chinese
+
+以下是英文原版介绍：
 <h1 align="center">
   GlobalQuake
 </h1>
